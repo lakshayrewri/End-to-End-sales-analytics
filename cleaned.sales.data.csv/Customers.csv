@@ -1,0 +1,101 @@
+customer_id,customer_name,region,segment
+1,Cust_1,Unknown,Consumer
+2,Cust_2,West,Home Office
+3,Cust_3,North,Consumer
+4,Cust_4,West,Corporate
+5,Cust_5,East,Consumer
+6,Cust_6,Unknown,Home Office
+7,Cust_7,South,Home Office
+8,Cust_8,North,Home Office
+9,Cust_9,East,Home Office
+10,Cust_10,East,Consumer
+11,Cust_11,South,Consumer
+12,Cust_12,West,Corporate
+13,Cust_13,South,Corporate
+14,Cust_14,South,Consumer
+15,Cust_15,North,Consumer
+16,Cust_16,East,Consumer
+17,Cust_17,North,Corporate
+18,Cust_18,East,Consumer
+19,Cust_19,West,Consumer
+20,Cust_20,East,Corporate
+21,Cust_21,North,Consumer
+22,Cust_22,East,Consumer
+23,Cust_23,Unknown,Home Office
+24,Cust_24,East,Home Office
+25,Cust_25,East,Home Office
+26,Cust_26,South,Home Office
+27,Cust_27,West,Corporate
+28,Cust_28,West,Home Office
+29,Cust_29,Unknown,Corporate
+30,Cust_30,East,Corporate
+31,Cust_31,Unknown,Home Office
+32,Cust_32,North,Consumer
+33,Cust_33,South,Corporate
+34,Cust_34,East,Home Office
+35,Cust_35,Unknown,Home Office
+36,Cust_36,West,Consumer
+37,Cust_37,West,Home Office
+38,Cust_38,North,Corporate
+39,Cust_39,West,Corporate
+40,Cust_40,North,Consumer
+41,Cust_41,West,Corporate
+42,Cust_42,South,Corporate
+43,Cust_43,East,Home Office
+44,Cust_44,Unknown,Consumer
+45,Cust_45,West,Corporate
+46,Cust_46,Unknown,Corporate
+47,Cust_47,East,Consumer
+48,Cust_48,South,Corporate
+49,Cust_49,East,Corporate
+50,Cust_50,West,Consumer
+51,Cust_51,West,Consumer
+52,Cust_52,Unknown,Consumer
+53,Cust_53,South,Home Office
+54,Cust_54,West,Home Office
+55,Cust_55,East,Consumer
+56,Cust_56,West,Consumer
+57,Cust_57,East,Corporate
+58,Cust_58,West,Home Office
+59,Cust_59,South,Corporate
+60,Cust_60,North,Corporate
+61,Cust_61,North,Home Office
+62,Cust_62,South,Home Office
+63,Cust_63,North,Home Office
+64,Cust_64,North,Home Office
+65,Cust_65,North,Consumer
+66,Cust_66,West,Corporate
+67,Cust_67,West,Consumer
+68,Cust_68,West,Corporate
+69,Cust_69,South,Home Office
+70,Cust_70,North,Consumer
+71,Cust_71,South,Corporate
+72,Cust_72,North,Corporate
+73,Cust_73,Unknown,Corporate
+74,Cust_74,South,Home Office
+75,Cust_75,East,Home Office
+76,Cust_76,North,Corporate
+77,Cust_77,West,Corporate
+78,Cust_78,West,Home Office
+79,Cust_79,Unknown,Consumer
+80,Cust_80,North,Corporate
+81,Cust_81,East,Home Office
+82,Cust_82,South,Corporate
+83,Cust_83,East,Corporate
+84,Cust_84,North,Home Office
+85,Cust_85,South,Corporate
+86,Cust_86,Unknown,Corporate
+87,Cust_87,East,Consumer
+88,Cust_88,North,Corporate
+89,Cust_89,South,Corporate
+90,Cust_90,North,Home Office
+91,Cust_91,West,Corporate
+92,Cust_92,North,Consumer
+93,Cust_93,South,Corporate
+94,Cust_94,East,Consumer
+95,Cust_95,East,Home Office
+96,Cust_96,Unknown,Corporate
+97,Cust_97,West,Consumer
+98,Cust_98,West,Corporate
+99,Cust_99,South,Corporate
+100,Cust_100,Unknown,Consumer
